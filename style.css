@@ -118,6 +118,20 @@ header{
     font-weight: 700;
     line-height: 35px;
     text-decoration-line: underline;
-    margin-right: 100px;
-
+    margin-right: 110px;
+    justify-content: space-around;
+}
+.service{
+    padding: 10px;
+    margin: 130px 200px;
+}
+.service-container{
+    display: flex;
+    padding: 40px;
+    gap: 30px;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    text-align: center;
+    margin-left: 100px;
+    justify-content: space-around;
 }
