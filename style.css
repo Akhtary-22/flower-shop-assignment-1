@@ -207,3 +207,45 @@ header{
     width: 300px;
     height: 396px;
 }
+.subscribe{
+    margin-top: 100px;
+    background-image: url('./images/Rectangle\ 9.png');
+    width: 1268px;
+    height: 449px;
+    margin-left: 130px;
+    background-position: center;
+}
+.subscribe-container{
+    text-align: center;
+}
+.subscribe-title{
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    padding-top: 120px;
+}
+.subscribe-content{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+.your-email{
+    width: 500px;
+    height: 40px;
+    border-radius: 5px;
+    background: #FFF;
+    border-color: #FFF;
+   margin-top: 20px;
+}
+.btn-subscribe{
+    width: 100px;
+    text-align: center;
+    height: 50px;
+    border-radius: 5px;
+    background: #E55473;
+    border-color:#E55473 ;
+    margin-left: 10px;
+}
